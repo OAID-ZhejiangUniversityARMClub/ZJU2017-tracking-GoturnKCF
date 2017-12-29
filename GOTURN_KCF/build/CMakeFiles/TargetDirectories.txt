@@ -1,0 +1,3 @@
+/home/firefly/Desktop/GOTURN_KCF/build/CMakeFiles/edit_cache.dir
+/home/firefly/Desktop/GOTURN_KCF/build/CMakeFiles/rebuild_cache.dir
+/home/firefly/Desktop/GOTURN_KCF/build/CMakeFiles/runTracker.dir
